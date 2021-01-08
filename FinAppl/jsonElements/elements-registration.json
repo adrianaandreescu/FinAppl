@@ -1,0 +1,13 @@
+{
+	"registratio": 
+		{
+			"register_name": "formData.name",
+			"register_email": "formData.username",
+			"register_mobile": "formData.phone",
+			"register_password": "formData.password",
+			"register_confirm_password": "formData.confirm_password",
+			"register_organization_pin": "formData.pin",
+			"register_registration": "submit"
+		}
+
+}
